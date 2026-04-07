@@ -138,6 +138,7 @@ gcc client.c -o client
 
 ./server
 ./client
+```
 ---
 📚 Learning Outcomes
 Practical understanding of networking concepts
